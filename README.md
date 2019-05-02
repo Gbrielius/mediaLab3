@@ -1,4 +1,5 @@
 # mediaLab3
+tested on firefox, chrome
 
 This lab aims to build your first Augmented Reality (AR) app.
 
